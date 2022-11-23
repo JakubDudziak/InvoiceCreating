@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<PurchaseOrder PurchaseOrderNumber="99503" OrderDate="2022-11-11">
+	<Address>
+		<Name>Ellen Adams</Name>
+		<Street>123 Maple Street</Street>
+		<City>Mill Valley</City>
+		<State>CA</State>
+		<Zip>10999</Zip>
+		<Country>USA</Country>
+	</Address>
+	<DeliveryNotes>Please leave packages in shed by driveway.
+	</DeliveryNotes>
+	<Items>
+		<Item type="big">
+			<ProductName>Lawnmower</ProductName>
+			<Quantity>1</Quantity>
+			<USPrice>148.95</USPrice>
+		</Item>
+		<Item type="small">
+			<ProductName>Baby Monitor</ProductName>
+			<Quantity>2</Quantity>
+			<USPrice>39.98</USPrice>
+		</Item>
+		<Item type="small">
+			<ProductName>Lamp</ProductName>
+			<Quantity>2</Quantity>
+			<USPrice>15.12</USPrice>
+		</Item>
+		<Item type="small">
+			<ProductName>plate</ProductName>
+			<Quantity>6</Quantity>
+			<USPrice>4.00</USPrice>
+		</Item>
+		<Item type="big">
+			<ProductName>chair</ProductName>
+			<Quantity>2</Quantity>
+			<USPrice>20.50</USPrice>
+		</Item>
+	</Items>
+</PurchaseOrder>
